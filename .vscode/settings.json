@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sstream": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}
